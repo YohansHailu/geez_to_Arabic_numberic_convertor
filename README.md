@@ -1,1 +1,1 @@
-# geez_to_Arabic_numberic_convertor
+# geez_to_Arabic_numeric_convertor
